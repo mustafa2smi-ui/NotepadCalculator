@@ -4,7 +4,7 @@ const urlsToCache = [
   '/about.html',
   '/index.html',
   '/manifest.json',
-  '/notepadbill.png'
+  '/notepadbill.jpg'
 ];
 
 // Install event
